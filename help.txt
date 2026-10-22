@@ -1,1 +1,1 @@
-Instructions: Run ./menu.sh and follow the on-screen options (1 to 4).
+Instructions: Run ./menu.sh and choose options 1 to 4.
